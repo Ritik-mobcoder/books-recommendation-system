@@ -1,0 +1,3 @@
+Movies data  = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Book data = https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
